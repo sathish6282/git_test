@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is 2nd version of file..testing
+=======
+this is 2nd version of file..WELCOME
+>>>>>>> firstbranch
